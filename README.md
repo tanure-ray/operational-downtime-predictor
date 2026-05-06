@@ -1,17 +1,5 @@
 ### \# Operational Downtime Predictor
 
-
-
-!\[Python] Python-3.11.9-blue)
-
-!\[Scikit-learn] Scikit--learn-ML-orange)
-
-!\[XGBoost] XGBoost-Model-green)
-
-!\[Status] Status-In%20Progress-yellow)
-
-
-
 * Predicts equipment failure risk in industrial operations and translates
 * Predictions into estimated downtime costs, helping operations teams
 * Prioritise maintenance before failures occur.
