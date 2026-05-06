@@ -2,13 +2,13 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.11.9-blue)
+!\[Python] Python-3.11.9-blue)
 
-!\[Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+!\[Scikit-learn] Scikit--learn-ML-orange)
 
-!\[XGBoost](https://img.shields.io/badge/XGBoost-Model-green)
+!\[XGBoost] XGBoost-Model-green)
 
-!\[Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+!\[Status] Status-In%20Progress-yellow)
 
 
 
