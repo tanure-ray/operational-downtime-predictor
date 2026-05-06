@@ -1,0 +1,10 @@
+The order of everything after that:
+
+Explore and understand the data — what columns exist, what the failure column looks like, how imbalanced it is
+Clean and prepare it — handle missing values, encode categories, split train and test
+Train your first model — just a simple Random Forest to start, get a baseline score
+Handle the class imbalance — apply SMOTE, retrain, compare results
+Train two more models — Logistic Regression and XGBoost, compare all three on recall
+Build the Streamlit dashboard — the cost predictor interface
+Deploy to Streamlit Cloud — free, takes about 30 minutes
+Write the README — this is the last step, not the first
